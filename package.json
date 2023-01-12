@@ -8,7 +8,7 @@
     "start": "exec node_modules/.bin/hubot --name 'hubot-healthtree' -a slack"
   },
   "dependencies": {
-    "hubot": "^2.19.0",
+    "hubot": "^3.3.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-repo-event-notifier": "benoror/hubot-github-repo-event-notifier#custom-rooms",
     "hubot-google-images": "^0.2.6",
